@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\namit\\Downloads\\pygta5-master\\pygta5-master\\Tutorial/ Codes\\Part/ 8-13/ code\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
+all_model_checkpoint_paths: "C:\\Users\\namit\\Downloads\\pygta5-master\\pygta5-master\\Tutorial/ Codes\\Part/ 8-13/ code\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
