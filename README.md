@@ -1,4 +1,4 @@
-# Auto-Drive-Self-Driving-Car-
+# Auto-Drive-Self-Driving-Car
 
 ## Data Collection
 
