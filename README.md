@@ -24,3 +24,4 @@ We have collected over 10 hours of data for this project.
 
 
 
+This project is highly inspired from the youtube videos of sentdex.
