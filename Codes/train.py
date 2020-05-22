@@ -1,5 +1,3 @@
-# train_model.py
-
 import numpy as np
 from alexnet import alexnet
 WIDTH = 160
